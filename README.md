@@ -38,11 +38,10 @@ As a retail analytics analyst, I was asked to answer the following questions for
 
 ## 📊 Key Insights
 
-> _(Fill these in after your analysis — keep them short and specific, e.g.:)_
-- The **West region** generates the highest profit margin, while the **Central region** underperforms despite similar sales volume.
-- **Furniture** has strong sales but the lowest profit margin due to discounts consistently above 20%.
-- Sales peak in **November–December**, suggesting a seasonal/holiday effect worth planning inventory around.
-- The **Consumer segment** drives the most revenue, but the **Home Office segment** is the most profitable per order.
+1. West/East regions and Technology/Office Supplies categories are most profitable; Furniture drags down performance
+2. Home Office segment is most profitable per order despite lower volume than Consumer
+3. Discounts above ~20-25% (Tables, Bookcases, Binders) are linked to losses
+4. Copiers and Phones are your standout profitable products
 
 ## 📈 Dashboard Preview
 
